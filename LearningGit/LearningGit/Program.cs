@@ -10,7 +10,7 @@ namespace LearningGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Learning Git.");
+            Console.WriteLine("Learning Git....");
         }
     }
 }
